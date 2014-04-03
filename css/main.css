@@ -9,6 +9,19 @@ body {
 	min-width: 1200px;
 	height: 500px;
 }
+
+.intro {
+	position: relative;
+	top: 200px;
+	left: 500px;
+	margin: auto;
+	font-family: cursive;
+	font-size: 18px;
+}
+h1{
+	font-size: 30px;
+}
+
 .ryu {
 	float: left;
 }
